@@ -1,0 +1,228 @@
+Brett Gagnon
+Intro to Java Programming
+Assignment 8 Text Editor
+
+IDE Runtime-Output:
+
+run:
+Enter a maximum formatted output width (30-100):
+40
+Enter the file name of the input text file
+HW8_1.txt
+?Great Management Truths...
+
+
+1. Have a plan.
+Hip shooters die young.
+Build your plans, and execute them in one straight, continuous line.
+
+2. Be a realist.
+Many plans might seem to lead to a happy never-never land of easy
+profit growth and tranquility for all.
+Don't allow yourself or others to smoke this pipe.
+
+3. Start with customer needs.
+Your inventory will turn over a lot faster if it contains what people need.
+Better yet if its also something they want.
+
+4. Use your common sense.
+It is simply astonishing how far a little common sense will go, and how
+seldom it is used.
+
+5. Have an advantage.
+If you don't have one, build one.
+Otherwise, you will set dead in the water.
+
+6. Recognize your limitations.
+Enthusiasm for your product and your company is important, but you will
+be marching steadily into a swamp if you assume that everything you do
+is better than anything your competition does.
+If you competitor has a lock on a particular piece of the market,
+recognize your limitations.
+
+7. Establish objectives.
+If you have nowhere to go, you will certainly get there.
+
+8. Set your strategies.
+You cannot be all things to all customers.
+Fish where the fishing is best, and you will eat better than those who try
+to fish everywhere at once.
+
+9. Execute well.
+There are usually so many slips twixt cup and lip that an average plan,
+well executed,
+will beat out a better, but badly executed, plan every time.
+
+10. Analyze.
+If you don't analyze, you can't learn.
+And if you don't learn, you won't grow.
+Enter the name of the output file:
+output11.txt
+Do you want to create a new file?
+yes
+BUILD SUCCESSFUL (total time: 1 minute 3 seconds)
+
+
+run:
+Enter a maximum formatted output width (30-100):
+70
+Enter the file name of the input text file
+HW8_1.txt
+?Great Management Truths...
+
+
+1. Have a plan.
+Hip shooters die young.
+Build your plans, and execute them in one straight, continuous line.
+
+2. Be a realist.
+Many plans might seem to lead to a happy never-never land of easy
+profit growth and tranquility for all.
+Don't allow yourself or others to smoke this pipe.
+
+3. Start with customer needs.
+Your inventory will turn over a lot faster if it contains what people need.
+Better yet if its also something they want.
+
+4. Use your common sense.
+It is simply astonishing how far a little common sense will go, and how
+seldom it is used.
+
+5. Have an advantage.
+If you don't have one, build one.
+Otherwise, you will set dead in the water.
+
+6. Recognize your limitations.
+Enthusiasm for your product and your company is important, but you will
+be marching steadily into a swamp if you assume that everything you do
+is better than anything your competition does.
+If you competitor has a lock on a particular piece of the market,
+recognize your limitations.
+
+7. Establish objectives.
+If you have nowhere to go, you will certainly get there.
+
+8. Set your strategies.
+You cannot be all things to all customers.
+Fish where the fishing is best, and you will eat better than those who try
+to fish everywhere at once.
+
+9. Execute well.
+There are usually so many slips twixt cup and lip that an average plan,
+well executed,
+will beat out a better, but badly executed, plan every time.
+
+10. Analyze.
+If you don't analyze, you can't learn.
+And if you don't learn, you won't grow.
+Enter the name of the output file:
+output12.txt
+Do you want to create a new file?
+yes
+BUILD SUCCESSFUL (total time: 27 seconds)
+
+
+
+run:
+Enter a maximum formatted output width (30-100):
+40
+Enter the file name of the input text file
+HW8_2.txt
+?"Ode to 'Real' Programmers"
+
+Real programmers don't do documentation.
+Users should consider themselves lucky to get any programs at all,
+and take what they get.
+
+Real
+     programmers
+                 don't
+                       comment
+                               their
+                                     code.
+If it was hard to write, it should be hard to understand.
+Real programmers don't need comments - the code is obvious.
+
+Real programmers don't eat quiche.
+They eat twinkies,
+M & M's,
+Snickers, Ring-Dings,
+         and other healthful food.
+
+Real programmers don't play tennis, or any other sport which requires you
+to change clothes.
+Mountain climbing is OK, and real programmers wear their hiking boots to
+work in case a mountain should suddenly spring up in the middle of the room.
+
+Real programmers don't wear neckties
+
+Real programmer's programs never work the first time.
+But if you throw them on the computer, they can be patched in only a few
+30 hour debugging sessions.
+
+Real programmers never work 9 to 5.  If they are around at 9 A.M., its
+because they were up all night.
+
+Real programmers don't write in Pascal, ADA, Bliss, or any of those silly
+'strongly typed' languages.
+Strong typing is for people with weak memories.
+
+Real programmers arrive at work in time for lunch.
+Enter the name of the output file:
+output21.txt
+Do you want to create a new file?
+yes
+BUILD SUCCESSFUL (total time: 22 seconds)
+
+
+
+run:
+Enter a maximum formatted output width (30-100):
+70
+Enter the file name of the input text file
+HW8_2.txt
+?"Ode to 'Real' Programmers"
+
+Real programmers don't do documentation.
+Users should consider themselves lucky to get any programs at all,
+and take what they get.
+
+Real
+     programmers
+                 don't
+                       comment
+                               their
+                                     code.
+If it was hard to write, it should be hard to understand.
+Real programmers don't need comments - the code is obvious.
+
+Real programmers don't eat quiche.
+They eat twinkies,
+M & M's,
+Snickers, Ring-Dings,
+         and other healthful food.
+
+Real programmers don't play tennis, or any other sport which requires you
+to change clothes.
+Mountain climbing is OK, and real programmers wear their hiking boots to
+work in case a mountain should suddenly spring up in the middle of the room.
+
+Real programmers don't wear neckties
+
+Real programmer's programs never work the first time.
+But if you throw them on the computer, they can be patched in only a few
+30 hour debugging sessions.
+
+Real programmers never work 9 to 5.  If they are around at 9 A.M., its
+because they were up all night.
+
+Real programmers don't write in Pascal, ADA, Bliss, or any of those silly
+'strongly typed' languages.
+Strong typing is for people with weak memories.
+
+Real programmers arrive at work in time for lunch.
+Enter the name of the output file:
+output22.txt
+Do you want to create a new file?
+yes
+BUILD SUCCESSFUL (total time: 14 seconds)
